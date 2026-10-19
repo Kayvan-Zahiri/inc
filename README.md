@@ -11,7 +11,7 @@ Built for both humans and LLM agents — every command supports `--output json` 
 brew install incident-io/tap/inc
 
 # mise
-mise use -g ubi:incident-io/inc
+mise use -g github:incident-io/inc
 ```
 
 Or download a binary from [GitHub Releases](https://github.com/incident-io/inc/releases).
